@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "330473208211",
+    "project_id": "clopestop-ff677",
+    "storage_bucket": "clopestop-ff677.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330473208211:android:af22e951e5b05a98b49066",
+        "android_client_info": {
+          "package_name": "com.example.clopestop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330473208211-40lui1m9tc7f6hfmj3lc1i0kgcr7n91a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-_KPbu8dEiHapxv-mhL2t85LNcJkibp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330473208211-40lui1m9tc7f6hfmj3lc1i0kgcr7n91a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
