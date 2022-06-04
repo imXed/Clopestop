@@ -1,6 +1,8 @@
 # clopestop
 
-A new Flutter project.
+Projet de Licence
+Ferkous Imed Eddine
+Djekoun Hocine Ouassim
 
 ## Getting Started
 
