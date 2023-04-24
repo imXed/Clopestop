@@ -4,11 +4,16 @@ de morts et de maladies évitables. Arrêter de fumer n'est pas une tâche facil
 dépendance, à la fois physique et psychologique aux substances contenues dans les cigarettes. Pour
 remédier à cela, nous créons l'application de sevrage tabagique CLOPESTOP pour accompagner les
 gens qui veulent mettre fin à leur addiction. Cette application permet de :
+
 o Suivre les statistiques (cigarettes non fumées, argent économisé)
+
 o Fixer des objectifs à débloquer (Les économies réalisées sont visualisées sous forme
 d’objectifs d’achats personnalisables)
+
 o Visualiser les bénéfices sur la santé
+
 o Un échange entre les utilisateurs
+
 o Signaler les rechutes et distraire l'utilisateur en cas d'envie
 
 ###########################
@@ -18,10 +23,15 @@ preventable death and disease. Quitting smoking is not an easy task and it is du
 dependence, both physical and psychological, on the substances contained in cigarettes. To remedy
 this, we are creating : CLOPESTOP, a smoking cessation application to support people who want to
 end their addiction. This application allows to :
+
 o Track stats (smoked cigarettes, money saved)
+
 o Set goals to unlock (Savings are visualized in the form of customizable purchasing goals)
+
 o Visualize health benefits
+
 o Exchange between users
+
 o Report relapses and distract the user when in need
 
 ## Getting Started
